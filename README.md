@@ -21,7 +21,7 @@ HTML5 | CSS3 |  Sass | TailwindCSS | JavaScript (ES6) | Canvas | React | Node.js
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=front-end)](https://github.com/on2wheels-es/front-end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=on2wheels-front-end)](https://github.com/on2wheels-es/front-end)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=react-weather-app)](https://github.com/elisendamonserrat/react-weather-app)
 
