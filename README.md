@@ -5,7 +5,7 @@ I'm Elisenda (Eli) Monserrat, an SEO that turned a Full-Stack Developer 👩‍�
 You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
-[1.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
+[1.2]: ![](https://img.shields.io/badge/linkeding-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)
 
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/elisendamonserrat/
