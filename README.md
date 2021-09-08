@@ -7,14 +7,19 @@ While working with Dev Teams and technical parts of SEO I discovered my interest
 
 - 🔭 I’m currently solidifying and expanding my React and SCSS knowledge 
 - 💬 Ask me about SEO, Web Analytics or let's go ahead and talk code!
-- ✨ Things I enjoy discovering restaurants in a new city, enjoying a long walk or petting my cats.
+- ✨ In my free time you can find me discovering restaurants in a new city, enjoying a long walk or petting my cats.
 
 ## Technologies & Tools
-HTML5 | CSS3 |  Sass | TailwindCSS | JavaScript (ES6) | Canvas | React | Node.js | Express.js | MongoDB | API Rest | Postman | Passport
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat&logo=expressjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
 
