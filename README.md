@@ -18,6 +18,7 @@ While working with Dev Teams and technical parts of SEO I discovered my interest
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat&logo=expressjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
