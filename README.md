@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Elisenda (Eli) Monserrat, an SEO turned Full-Stack Developer from Barcelona, Spain.
+I'm Elisenda (Eli) Monserrat, an SEO that turned a Full-Stack Developer.
 
 ## About me
 While working with Dev Teams and technical parts of SEO I discovered my interest in everything that is behind websites and applications. That is why I joined Ironhack’s Full Stack Bootcamp. Fast forward half a year, I describe myself as a passionate developer who loves coding, web design and enjoys learning new languages 🖥️
