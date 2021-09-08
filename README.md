@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Elisenda (Eli) Monserrat, an SEO turned Full-Stack Developer from Barcelona, Spain.
 
@@ -21,10 +21,8 @@ HTML5 | CSS3 |  Sass | TailwindCSS | JavaScript (ES6) | Canvas | React | Node.js
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=front-end)](https://github.com/on2wheels-es/front-end)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=on2wheels-front-end)](https://github.com/on2wheels-es/front-end)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=react-weather-app)](https://github.com/elisendamonserrat/react-weather-app)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=podcast)](https://github.com/laialloret95/podcast)
 
 
