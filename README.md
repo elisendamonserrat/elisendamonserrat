@@ -1,6 +1,14 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Elisenda (Eli) Monserrat, an SEO that turned a Full-Stack Developer.
+I'm Elisenda (Eli) Monserrat, an SEO that turned a Full-Stack Developer 👩‍💻
+
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+[1.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
+
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/elisendamonserrat/
 
 ## About me
 While working with Dev Teams and technical parts of SEO I discovered my interest in everything that is behind websites and applications. That is why I joined Ironhack’s Full Stack Bootcamp. Fast forward half a year, I describe myself as a passionate developer who loves coding, web design and enjoys learning new languages 🖥️
