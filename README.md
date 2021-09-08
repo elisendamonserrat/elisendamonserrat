@@ -14,13 +14,16 @@ HTML5 | CSS3 |  Sass | TailwindCSS | JavaScript (ES6) | Canvas | React | Node.js
 
 ## Stats and Web Dev Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?elisendamonserrat=anuraghazra&show_icons=true&theme=vue)
+<div >
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=elisendamonserrat&show_icons=true&theme=vue&icon_color=f4cd7c&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisendamonserrat&layout=compact&theme=vue&hide_border=true" />
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?elisendamonserrat=anuraghazra&repo=github-readme-stats)](https://github.com/on2wheels-es/front-end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=github-readme-stats)](https://github.com/on2wheels-es/front-end)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?elisendamonserrat=anuraghazra&repo=github-readme-stats)](https://github.com/elisendamonserrat/react-weather-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=github-readme-stats)](https://github.com/elisendamonserrat/react-weather-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?elisendamonserrat=anuraghazra&repo=github-readme-stats)](https://github.com/laialloret95/podcast)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elisendamonserrat&repo=github-readme-stats)](https://github.com/laialloret95/podcast)
 
 
 
