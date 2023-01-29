@@ -1,11 +1,13 @@
 # Hi there!
 
-I'm Elisenda (Eli) Monserrat, an SEO that turned a Full-Stack Developer 👩‍💻
+I'm Elisenda (Eli) Monserrat, an experienced Digital Marketer turned Frontend Developer 👩‍💻
 
 ## About me
-While working with Dev Teams and technical parts of SEO I discovered my interest in everything that is behind websites and applications. That is why I joined Ironhack’s Full Stack Bootcamp. Fast forward half a year, I describe myself as a passionate developer who loves coding, web design and enjoys learning new languages 🖥️
+After 4.5 years working in digital marketing, I made the decision to switch to Web Development. I acquired the skills to code web applications from scratch with the MERN stack through Ironhack's Full Stack Development Bootcamp.
 
-- 🔭 I’m currently solidifying and expanding my React and SCSS knowledge 
+Since 1.5 years, I have been working as a Web Developer, starting as a Teacher Assistant at Ironhack. Afterwards I became a Full-stack intern at The Keenfolks, where I currently work as a Frontend Developer. 
+
+- 🔭 I’m currently solidifying and expanding my React, Redux and React Native knowledge 
 - 💬 Ask me about SEO, Web Analytics or let's go ahead and talk code!
 - ✨ In my free time you can find me discovering restaurants in a new city, enjoying a long walk or petting my cats.
 
