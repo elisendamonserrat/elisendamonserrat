@@ -45,11 +45,8 @@ Since 1.5 years, I have been working as a Web Developer, starting as a Teacher A
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisendamonserrat&layout=compact&theme=vue&hide_border=true" />
 </div>
 
-## GitHub Stats
-<p><a href="https://github.com/elisendamonserrat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="[[https://www.linkedin.com/in/elisendamonserrat/](https://www.linkedin.com/in/elisendamonserrat/)](https://www.linkedin.com/in/elisendamonserrat/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:elisenda.montserrat@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square" /></a> 
+## Where to Find Me
+<p>
+<a href="https://github.com/elisendamonserrat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> <a href="mailto:elisenda.monserrat@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/elisendamonserrat" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
-
-
-
-
-
