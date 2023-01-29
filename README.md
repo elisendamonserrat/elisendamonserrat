@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there!👋
 
 I'm Elisenda (Eli) Monserrat, an experienced Digital Marketer turned Frontend Developer 👩‍💻
 
